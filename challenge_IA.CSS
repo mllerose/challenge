@@ -1,0 +1,33 @@
+html, body {
+margin: 0;
+background-color: black;
+color: white;
+}
+
+nav{
+display: inline-block;
+
+top: 200px;
+}
+
+section{
+display: inline-block;
+margin-left: 300px;
+border: 1px solid black;
+width: 200px;
+height: 200px;
+margin-left: 600px;
+
+position: relative;
+vertical-align: top;
+}
+
+a{
+display: block;
+}
+
+element{
+position: absolute;
+left: 0px;
+bottom: 0px;
+}
